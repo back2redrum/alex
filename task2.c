@@ -8,5 +8,5 @@ int main() {
         printf("%d \n", start);
         start += step;
     }
-return 0;
+    return 0;
 }
